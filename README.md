@@ -45,7 +45,7 @@ Hi, I'm **Tan Hai Nguyen** — an Information Technology student at **Hanoi Nati
 
 ## 📊 GitHub Stats
 
-<div align="center">
+<div>
 
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=ntanhai04&show_icons=true&hide=issues,contribs&title_color=000000&text_color=000000&icon_color=000000&bg_color=F8D7E3" />
 
