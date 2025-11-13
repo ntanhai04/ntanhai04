@@ -1,30 +1,60 @@
-### WELCOME TO MY PAGE 👋
-My name is Hai Nguyen, I am a student at Hanoi University of Education, majoring in software technology.
-🌱
+### 👋 Welcome to my GitHub
 
-## 📫 How to reach me: 
-[![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub]() 
+Hi, I'm **Tan Hai Nguyen** — an Information Technology student at **Hanoi National University of Education**, majoring in Software Technology.
 
-![Hai's github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=leafclover01&show_icons=true&theme=tokyonight&hide=issues)
+#### About Me
+- 🔧 Passionate about building clean, maintainable, and scalable web applications  
+- 🌱 Always learning modern tools, frameworks, and best practices  
+- 💻 Strong interest in backend development with PHP & Laravel  
+- 🚀 I enjoy solving real-world problems and learning by doing  
 
-## 💻 Tech Stack
-<!-- Badges from https://github.com/Ileriayo/markdown-badges -->
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+---
+
+## 🧰 My Toolbox
+**Languages & Frameworks**  
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
-![Dropbox](https://img.shields.io/badge/Dropbox-%233B4D98.svg?style=for-the-badge&logo=Dropbox&logoColor=white)
+![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
-<a href="https://github.com/leafclover01/Project_nentangphattrienWeb/">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=leafclover01&repo=Project_nentangphattrienWeb&theme=radical" />
-</a> 
+**Tools & Platforms**  
+![NodeJS](https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-2496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
-<a href="https://github.com/leafclover01/Scan-QR-code/">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=leafclover01&repo=Scan-QR-code&theme=cobalt" />
-</a>
+---
+
+## 🔍 Currently Exploring
+- Backend architecture & clean coding practices  
+- Laravel ecosystem & modern PHP techniques  
+- Authentication, security, and API design  
+- DevOps basics with Docker  
+- Frontend thinking with React & UI/UX fundamentals  
+
+---
+
+## 💼 Experience
+- **Frontend Intern at Petrolimex** (3 months – Year 2)  
+  - Built responsive UI components  
+  - Improved layout and usability for internal web tools  
+  - Worked in a real production environment with senior developers  
+
+---
+
+## 📊 GitHub Stats  
+![Hai's GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ntanhai04&show_icons=true&theme=transparent&hide=issues,contribs)
+
+---
+
+## 🤝 Let's Connect
+- 📧 Email: **nguyentanhai1610@gmail.com**  
+- 🌐 Facebook: [facebook.com/duong.tinhvu.948](https://www.facebook.com/duong.tinhvu.948/)  
+- 🔗 LinkedIn: *(coming soon)*  
+
+---
+
+⭐ *Thanks for visiting! Feel free to explore my projects or connect with me!*  
+ **If you find something useful or inspiring, feel free to star a repo!**  
+It really encourages me and helps the projects grow. 😊
