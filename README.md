@@ -45,11 +45,11 @@ Hi, I'm **Tan Hai Nguyen** — an Information Technology student at **Hanoi Nati
 
 ## 📊 GitHub Stats
 
-<div>
+<div align="center">
 
-  <img height="180" width="50%" src="https://github-readme-stats.vercel.app/api?username=ntanhai04&show_icons=true&hide=issues,contribs&title_color=000000&text_color=000000&icon_color=000000&bg_color=F8D7E3" />
+  <img height="130" src="https://github-readme-stats.vercel.app/api?username=ntanhai04&show_icons=true&hide=issues,contribs&title_color=000000&text_color=000000&icon_color=000000&bg_color=F8D7E3" />
 
-  <img height="150" width="50%" src="https://streak-stats.demolab.com?user=ntanhai04&background=F8D7E3&ring=000000&fire=000000&currStreakNum=000000&sideNums=000000&currStreakLabel=000000&sideLabels=000000&dates=000000" />
+  <img height="130" src="https://streak-stats.demolab.com?user=ntanhai04&background=F8D7E3&ring=000000&fire=000000&currStreakNum=000000&sideNums=000000&currStreakLabel=000000&sideLabels=000000&dates=000000" />
 
 </div>
 
